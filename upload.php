@@ -1,3 +1,6 @@
+RENA
+
+
 <?php
 //uploadtxt.php
 	$connect=mysqli_connect("113.1.1.167", "applications", "applications2019", "applications");
